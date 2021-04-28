@@ -1,4 +1,9 @@
 ### Hi there 👋 William Elí
+ 
+ <head>
+    <meta charset="utf-8">
+ </head>
+ 
  ![Alt text](https://github.com/ramun9533/Pagina-de-Presentacion/blob/main/Yo.jpg)
    <section>
  
