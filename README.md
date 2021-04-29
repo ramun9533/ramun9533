@@ -2,9 +2,9 @@
  
  <head>
     <meta charset="utf-8">
- ![Alt text]( https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/2.png)
  
-  ![Alt text]( https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/5.png)
+ 
+  ![Alt text]( https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/5.png) ![Alt text]( https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/2.png)
  
  
  </head>
