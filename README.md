@@ -4,7 +4,7 @@
     <meta charset="utf-8">
  </head>
  
- ![Alt text](https://github.com/ramun9533/Pagina-de-Presentacion/blob/main/Yo.jpg)
+ 
    <section>
  
     I am an industrial electronics engineer, who is passionate 
@@ -16,7 +16,7 @@
     Processing, HTML, and CSS. I like to share my knowledge and 
     help with projects.
 
- ![Alt text]( https://github.com/ramun9533/Pagina-de-Presentacion/blob/main/s.jpg)
+ ![Alt text]( https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Izquierdo.png)
 
 </section>
 
