@@ -8,7 +8,7 @@
  <p style="
     color: #083e70;
     font-weight: 800;
-">Industrial Electronics Engineer | C++, HTML, CSS, Java  practitioner | Image edition practitioner | Electronic technician |Fluid Technology (Hydraulic / Pneumatic)</p>
+">Industrial Electronics Engineer | C++, HTML, CSS, Processing, Java  practitioner | Image edition practitioner | Electronic technician |Fluid Technology (Hydraulic / Pneumatic) | Script de shell practitioner</p>
 
  
   ![Alt text](https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Yo.jpg) 
