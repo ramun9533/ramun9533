@@ -34,21 +34,21 @@
     border-radius: 15px;">
 
 <div>65%</div>
-<p>C++, HTML, CSS, Processing and Java  practitioner </p>
+<p>C++, HTML, CSS, Processing and Java </p>
 
 
 <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/lenguajes-de-programacion-web.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
     border-radius: 15px;">
 
 <div>65%</div>
-<p>Bash practitioner </p>
+<p>Bash  </p>
 
  <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Bash_screenshot.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
     border-radius: 15px;">
  
  
  <div>55%</div>
- <p>Image edition practitioner  </p>
+ <p>Image edition  </p>
  
 <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Screenshot_29.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
     border-radius: 15px;"> 
