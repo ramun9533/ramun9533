@@ -51,7 +51,8 @@
  <div>85%</div>
  <p>Electrical technician (household, industrial)</p>
  
- 
+ <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Instalador-electricista.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1330" height="100" style="
+    border-radius: 15px;">
  
  
  
