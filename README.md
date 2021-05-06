@@ -34,7 +34,7 @@
 <p>C++, HTML, CSS, Processing and Java  practitioner </p>
 
 <div>65%</div>
-<p>Script de shell practitioner </p>
+<p>Bash practitioner </p>
 
  <div>55%</div>
  <p>Image edition practitioner  </p>
