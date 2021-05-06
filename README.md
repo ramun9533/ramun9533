@@ -1,14 +1,22 @@
 ### Hi there 👋 William Elí
  
- <head>
+ <header class="w3-container w3-center" style="padding: 44px 16px;" id="home">
     <meta charset="utf-8">
+ <h1 class="w3-jumbo">
+      <b style="color: #083e70;">William Elí Orta López</b>
+</h1>
+ <p style="
+    color: #083e70;
+    font-weight: 800;
+">Industrial Electronics Engineer | C++, HTML, CSS, Java  practitioner | Image edition practitioner | Electronic technician |Fluid Technology (Hydraulic / Pneumatic)</p>
+
  
   ![Alt text](https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Yo.jpg) 
  
   ![Alt text](https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/8fc9f7e550fd477a4fab49dccef50371c788cfd9/2.png.svg) 
   
   
- 
+ </header>
  
 
 
@@ -31,4 +39,4 @@
  
  
  
- </head>
+ 
