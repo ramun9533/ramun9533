@@ -39,53 +39,51 @@
   <tr>
     <td>Industrial Electronics Engineer</td>
     <td>75%</td>
-    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Sin-t%C3%ADtulo-1-1000x600.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Sin-t%C3%ADtulo-1-1000x600.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;">
 </td>
   </tr>
   <tr>
     <td>C++, HTML, CSS, Processing, Java</td>
     <td>65%</td>
-    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/lenguajes-de-programacion-web.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/lenguajes-de-programacion-web.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
 </tr>
   <tr>
     <td>Bash</td>
     <td>65%</td>
-    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Bash_screenshot.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Bash_screenshot.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
 </tr>
   <tr>
   <td>Imagen Edition</td>
 <td>55%</td>
-<td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Screenshot_29.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+<td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Screenshot_29.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"> </td>
   </tr>
 <tr>
   <td>Programming Arduino</td>
   <td>80%</td>
-    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/arduino.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/arduino.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
 </tr>
   <tr>
 
   <td>Electronic</td>
     <td>80%</td>
-      <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/ELECTR%C3%93NICA-1024x538.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+      <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/ELECTR%C3%93NICA-1024x538.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
   </tr>
-
-  </tr>
-
+ </tr>
 <tr>
     <td>Fluid Technology (Hydraulic / Pneumatic)</td>
     <td>85%</td>
-    <td> <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Neumatica.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+    <td> <img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Neumatica.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="220" height="180" style="
     border-radius: 15px;"></td>
 </tr>
 <tr>
   <td>Electrical technician (household, industrial)</td>
 <td>85%</td>
-<td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Instalador-electricista.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="230" height="230" style="
+<td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Instalador-electricista.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
 </tr>
