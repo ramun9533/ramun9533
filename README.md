@@ -43,7 +43,7 @@
   <tr>
     <td>C++, HTML, CSS, Processing, Java</td>
     <td>65%</td>
-    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/lenguajes-de-programacion-web.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
+    <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/lenguajes-de-programacion.png" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="180" style="
     border-radius: 15px;"></td>
 </tr>
   <tr>
