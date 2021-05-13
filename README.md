@@ -23,7 +23,7 @@
  
   </header>
   <section>
- <p> I am an industrial electronics engineer, passionate about making code for home automation and other applications such as GUI (Graphical user interface), based on Arduino and other microcontroller platforms, creating technology to lift people up and build a more independent community. Some technologies that I enjoy working with include interfaces to Arduino, C ++, Processing, HTML, CSS and Java. I like to share my knowledge and help with projects.
+ <p> I am an industrial electronics engineer, passionate about making code for home automation and other applications such as GUI (Graphical user interface), based on Arduino, Raspberry pi and other microcontroller platforms. Creating technology to uplift people and build a more independent community. Some technologies I enjoy working with include interfaces for Arduino, C ++, Processing, HTML, CSS, and Java, all based on Linux (Fedora, currently). I like to share my knowledge and help with projects.
  </p>
  <h3>My Skills</h3>
 <h4>  </h4>
