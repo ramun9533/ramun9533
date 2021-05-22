@@ -8,7 +8,7 @@
  <header>
     <meta charset="utf-8">
  <h1>
-      <b>William Elí Orta López</b>
+      <b>William Elí O.L.</b>
 </h1>
  <p>Industrial Electronics Engineer | C++, HTML, CSS, Processing, Java  practitioner | Script de shell practitioner| Image edition practitioner |Programming Arduino |  Electronic technician | Fluid Technology (Hydraulic / Pneumatic) | Electrical technician (household, industrial)</p>
 <table>
