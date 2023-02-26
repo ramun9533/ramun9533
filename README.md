@@ -10,7 +10,7 @@
  <h1>
       <b>William Elí O.L.</b>
 </h1>
- <p>Industrial Electronics Engineer | C++, HTML, CSS, Processing, Java  practitioner | Script de shell practitioner| Image edition practitioner |Programming Arduino |  Electronic technician | Fluid Technology (Hydraulic / Pneumatic) | Electrical technician (household, industrial)</p>
+ <p>Industrial Electronics Engineer-Specialist in Smart Indstry</p>
 <table>
 <tr>
     <td><img src="https://raw.githubusercontent.com/ramun9533/Pagina-de-Presentacion/main/Yo.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="200" height="200" style="
@@ -23,7 +23,8 @@
  
   </header>
   <section>
- <p> I am an industrial electronics engineer, passionate about making code for home automation and other applications such as GUI (Graphical user interface), based on Arduino, Raspberry pi and other microcontroller platforms. Creating technology to uplift people and build a more independent community. Some technologies I enjoy working with include interfaces for Arduino, C ++, Processing, HTML, CSS, and Java, all based on Linux (Fedora, currently). I like to share my knowledge and help with projects.
+ <p> I am an industrial electronics engineer. Smart Industry 4.0 is a new industrial revolution that is transforming the way goods and services are produced around the world. It is characterized by the incorporation of advanced digital technologies, such as the Internet of Things (IoT), artificial intelligence, machine learning, robotics and cybersecurity, in production processes. This is why my areas d work are so many, smart industri requires it.
+  I like to share my knowledge and help with projects.
  </p>
  <h3>My Skills</h3>
 <h4>  </h4>
